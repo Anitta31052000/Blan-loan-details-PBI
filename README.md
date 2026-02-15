@@ -1,2 +1,2 @@
 # Blan-loan-details-PBI
-PBI file for banl loan details
+PBI file for bank loan details
